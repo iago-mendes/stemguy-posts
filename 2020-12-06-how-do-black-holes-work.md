@@ -1,5 +1,5 @@
 ---
-	description: Nowadays, everyone has heard of the term "black hole", but I am sure that most people do not know the great amount of knowledge humanity has acquired recently. In this post, I talk about black holes – origins, structure, and behavior – and future topics of study regarding this subject.
+	description: Nowadays, everyone has heard of the term "black hole", but I am sure that most people do not know the great amount of knowledge humanity has acquired about it recently. In this post, I talk about black holes – origins, structure, and behavior – and future topics of study regarding this subject.
 ---
 
 We live in exciting times for talking about black holes; in a short period of time, humanity has detected the collision of a binary system (proving the existence of gravitational waves), taken the first direct image of a black hole, and proven that the center of our galaxy is one of those objects. If you are excited about this subject – like me – you may have seen this term being used very often recently.
