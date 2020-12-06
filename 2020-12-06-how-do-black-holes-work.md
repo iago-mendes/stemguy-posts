@@ -14,7 +14,7 @@ We are so used to thinking about the beginning and ending of things that the fir
 
 ## Death of a star
 
-<Img url='https://tmp.iago-mendes.me/uploads/sun.jpg-4b4dedc8c43b494652dbff2765f5c31d.png' alt='Burning star' credit='by NASA/SDO' creditLink='https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/?category=solar-system_sun' width=2048 height=2048 />
+<Img url='https://api.stemguy.club/uploads/sun.jpg-4b4dedc8c43b494652dbff2765f5c31d.png' alt='Burning star' credit='by NASA/SDO' creditLink='https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/?category=solar-system_sun' width=2048 height=2048 />
 
 The most common and accepted origin is the death of a star. When a star reaches the end of its life, there are some possible paths to be followed, like becoming a white dwarf, a neutron star or – the one in which we are interested – a black hole. The details of star evolution are way too complex to resume in just some phrases, so I plan on writing another post to dive into this topic.
 
@@ -28,7 +28,7 @@ It is worth pointing out that we have no evidence that primordial black holes �
 
 ## Lab collisions
 
-<Img url='https://tmp.iago-mendes.me/uploads/cern.jpg-d3733aa92f8201308582718607e18b4b.png' alt='LHC collision tubes' credit='by CERN' creditLink='https://home.cern/resources/image/accelerators/lhc-images-gallery' width=3189 height=1762 />
+<Img url='https://api.stemguy.club/uploads/cern.jpg-d3733aa92f8201308582718607e18b4b.png' alt='LHC collision tubes' credit='by CERN' creditLink='https://home.cern/resources/image/accelerators/lhc-images-gallery' width=3189 height=1762 />
 
 By now, we have only talked about gravitational collapse (a lot of mass in a small volume) as a way to create black holes. However, it is also theoretically possible to create such an object by putting a lot of energy in a small volume (which makes sense if you remember that mass and energy can be converted into each other). In order to accomplish this, we would have to accelerate particles (providing energy) and then collide them, which is basically what particle accelerators like the LHC do.
 
@@ -38,7 +38,7 @@ Be as it may, this act would require a lot of energy, making it unfeasible for o
 
 # Structure and properties: what are black holes made of?
 
-<Img url='https://tmp.iago-mendes.me/uploads/black-hole-structure.jpg-a09d9362f65979443af9a9436b7edc7e.png' alt='Structure of a black hole' credit='by NASA’s Goddard Space Flight Center/Jeremy Schnittman' creditLink='https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world' width=320 height=180 />
+<Img url='https://api.stemguy.club/uploads/black-hole-structure.jpg-52ef2de35a8dce6d57a262ba1d170686.png' alt='Structure of a black hole' credit='by NASA’s Goddard Space Flight Center/Jeremy Schnittman' creditLink='https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world' width=320 height=180 />
 
 Black holes are very complex objects, being impossible to describe all of their composition details in a short post. Nevertheless, below I talk about some of the most interesting aspects about them in my opinion.
 
@@ -78,7 +78,7 @@ After reading so much information about black holes, you may ask: do we still ne
 
 ## More observations
 
-<Img url='https://tmp.iago-mendes.me/uploads/black-hole-real.png-2c45dc7f8019950fb4c5b782a73bd639.png' alt='Real image of a black hole' credit='by Event Horizon Telescope' creditLink='https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole' width=800 height=466 />
+<Img url='https://api.stemguy.club/uploads/black-hole-real.png-2c45dc7f8019950fb4c5b782a73bd639.png' alt='Real image of a black hole' credit='by Event Horizon Telescope' creditLink='https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole' width=800 height=466 />
 
 I am sure you have already seen the above image, right? This is a direct image of the supermassive black hole in the center of the Virgo Galaxy (M87), which marked a great point in history. With this new ability, we have new targets to be observed. In special, the black hole in the center of the Milk Way – Sagittarius A* – is a desirable target, because of its recent confirmation of existence, which is responsible for the [2020 Physics Novel Prize](https://www.nobelprize.org/prizes/physics/2020/summary/) given to professors Ghez and Genzel.
 
