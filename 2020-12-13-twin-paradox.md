@@ -1,4 +1,6 @@
-
+---
+	description: The twin paradox is one of the most famous puzzles regarding special relativity. In this post, I dive into all the details regarding this "paradox", giving an example, showing the common mistake people make, explaining why it is not a paradox, and providing the answer to the question "which brother is older?".
+---
 Relativity is a topic that most people consider to be complex, especially because of the counterintuitive scenarios that can be analyzed. This is the reason for existing so many "fake" paradoxes, which basically are situations that contradict our common sense but are perfectly fine according to the physics of the process.
 
 In this sense, there are many "relativity paradoxes" that can be found on the internet that are not really paradoxes (meaning that there is a solution for it). One famous example of this is the twin paradox: a relativistic event (near the speed of light) involving time dilation. In this post, I go over all the details — without diving into the math, which can be boring for some people — regarding this problem.
