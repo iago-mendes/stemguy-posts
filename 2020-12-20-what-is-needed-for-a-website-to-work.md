@@ -1,3 +1,7 @@
+---
+	description: Websites are an essential part of our modern world. We are constantly using them to accomplish varied tasks, but most of us does not know how they actually work. In this post, I talk about the process of building a web application.
+---
+
 Nowadays, we visit many websites. I believe it is hard to stay even one day without accessing any website on either your computer or your smartphone. That is because we rely so much on them, both to keep our routine (be it work or study) and to entertain ourselves.
 
 That said, do you really know what is needed for a website to work? We are so used to just type a URL in a browser or click a link, which may cause some of us to take for granted the work done by developers to create those applications. In this post, I make use of my intermediate experience building web applications (like this blog) to explain briefly the process to create a website.
