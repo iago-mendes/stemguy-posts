@@ -2,9 +2,9 @@
 	description: Websites are an essential part of our modern world. We are constantly using them to accomplish varied tasks, but most of us does not know how they actually work. In this post, I talk about the process of building a web application.
 ---
 
-Nowadays, we visit many websites. I believe it is hard to stay even one day without accessing any website on either your computer or your smartphone. That is because we rely so much on them, both to keep our routine (be it work or study) and to entertain ourselves.
+Nowadays, almost everybody visits many websites on a daily basis. It is hard to stay even one day without accessing any website on either your computer or your smartphone because we rely so much on them, both for keeping our routine (be it work or study) and for entertaining ourselves.
 
-That said, do you really know what is needed for a website to work? We are so used to just type a URL in a browser or click a link, which may cause some of us to take for granted the work done by developers to create those applications. In this post, I make use of my intermediate experience building web applications (like this blog) to explain briefly the process to create a website.
+That said, do you really know what is needed for a website to work? We are so used to just type a URL in a browser or click a link that some of us may to take for granted the work done by developers to create those applications. In this post, I make use of my intermediate experience building web applications (like this blog) to explain briefly the process of creating a website.
 
 <HorizontalAd />
 
@@ -12,7 +12,7 @@ That said, do you really know what is needed for a website to work? We are so us
 
 <Img url='https://api.stemguy.club/uploads/coding-man.jpg-82ecd7873a153f59ed18bcaeca479db6.png' alt='Man coding with floating interface' credit='Man vector created by upklyak - www.freepik.com' creditLink='https://www.freepik.com/vectors/man' width=5000 height=3333 />
 
-Before diving into the more practical part, it is important to understand the organization of tasks.
+Before diving into the more practical part, it is important to understand the separation of tasks within the application.
 
 ## Web: dealing with clients
 
@@ -24,7 +24,7 @@ The back-end of an application is not directly accessible for the client, commun
 
 ### Databases: managing information
 
-Ok... I have talked about tasks, but where does information is stored when, for example, an administrator of the STEM Guy blog posts a new article? This is the responsibility of the databases! You may have realized that this topic is inside 'back-end'; well, this is because those two are in constant communication. In this sense, the server creates, reads, updates, and deletes — which are usually called a CRUD functions — information in the database.
+Ok... I have talked about tasks, but where does information is stored when, for example, an administrator of the STEM Guy blog posts a new article? This is the responsibility of databases! You may have realized that this topic is inside 'back-end'; well, this is because those two are in constant communication. In this sense, the server creates, reads, updates, and deletes — which are usually called CRUD functions — information in the database.
 
 It is also important to point out that there are two types of database programs: SQL (which stores information in tables) and NoSQL (which uses different ways to store information).
 
@@ -38,9 +38,9 @@ Now that we have understood the different conceptual parts of a web application,
 
 ## Languages: communicating with a computer
 
-When I try to explain how websites work for some non-tech friend or relative, the most common question that arises is how can we tell a computer what it needs to do. Now, before answering this question, I must tell you that computers have their own language! That is right, the famous binary code can be directly understood by our machines.
+When I try to explain how websites work for some non-tech friend or relative, the most common question that arises is how can we tell a computer what it needs to do. Before answering this question, I must tell you that computers have their own language! That is right, the famous binary code can be directly understood by our machines.
 
-That said, while theoretically possible, it would be extremely hard to code in binary because the simple term "STEM Guy" is 01010011 01010100 01000101 01001101 00100000 01000111 01110101 01111001. Now, imagine coding a whole application, with many tasks, using this complex syntax! This is why we have different languages that are more familiar to humans and, when our coding is complete, we can compile it (convert from the language used to binary code).
+That said, while theoretically possible, it would be extremely hard to code in binary because the simple term "STEM Guy" would be 01010011 01010100 01000101 01001101 00100000 01000111 01110101 01111001. Now, imagine coding a whole application, with many tasks, using this complex syntax! This is why we have different languages that are more familiar to humans and, when our coding is complete, we can compile it (convert from the language used to binary code).
 
 ### Programming: performing specific tasks
 
@@ -50,7 +50,7 @@ There are a lot of programming languages in the world. For the front-end part, t
 
 ### Markup and style: formatting a website
 
-Besides programming, languages can have other functions like markup and styling. For example, HTML — the most famous markup language for the web — tells to the computer what should be displayed and how. Furthermore, CSS is the most common language used for styling websites.
+Besides programming, languages can have other functions like markup and styling. For example, HTML — the most famous markup language for the web — tells the computer what should be displayed and how. Furthermore, CSS is the most common language used for styling websites.
 
 ## Frameworks: making our lives easier
 
@@ -72,7 +72,7 @@ Once a developer finishes coding a website in his/her machine, it is time to mak
 
 ## Host: using remote computers
 
-In theory, we could host websites in our computers, but they would need to stay on the whole time, which — along with other reasons — makes it impracticable. Therefore, the most common practice is to use remote computers, by using some hosting service.
+n theory, we could host websites in our computers, but they would need to keep turned on all the time, which — along with other reasons — makes it impracticable. Therefore, the most common practice is to use remote computers, by using some hosting service.
 
 There are a lot of options available in the market, but what I currently find the best solution for me is to use [Vercel](vercel.com) to host the front-end (which is free for individuals and has an awesome integration with Next.js) and [DigitalOcean](https://m.do.co/c/3fefb3daa386) to host the back-end (which is paid, but offers an amazing service for a small price), including databases.
 
