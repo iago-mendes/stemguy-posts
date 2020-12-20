@@ -72,7 +72,7 @@ Once a developer finishes coding a website in his/her machine, it is time to mak
 
 ## Host: using remote computers
 
-n theory, we could host websites in our computers, but they would need to keep turned on all the time, which — along with other reasons — makes it impracticable. Therefore, the most common practice is to use remote computers, by using some hosting service.
+In theory, we could host websites in our computers, but they would need to keep turned on all the time, which — along with other reasons — makes it impracticable. Therefore, the most common practice is to use remote computers, by using some hosting service.
 
 There are a lot of options available in the market, but what I currently find the best solution for me is to use [Vercel](vercel.com) to host the front-end (which is free for individuals and has an awesome integration with Next.js) and [DigitalOcean](https://m.do.co/c/3fefb3daa386) to host the back-end (which is paid, but offers an amazing service for a small price), including databases.
 
