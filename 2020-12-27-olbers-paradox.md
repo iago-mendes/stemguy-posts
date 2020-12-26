@@ -1,3 +1,7 @@
+---
+	description: The color of the sky is something so natural to us that many people may think that "why is the night sky dark?" is a dumb question. However, the answer to this question is more elaborated than most people would expect.
+---
+
 The answer to the question "why is the night sky dark?" seems so obvious, right? "The night sky is dark because there is no Sun", many would say. However, this answer is wrong!
 
 About 200 years ago, the astronomer Heinrich Olbers showed that the night sky should be as brilliant as the day sky, according to what the scientific community believed back then. This fact is known as the Olbers' paradox, which was first publically solved by the American writer Edgar Allan Poe.
