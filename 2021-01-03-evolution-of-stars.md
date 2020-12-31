@@ -1,8 +1,8 @@
-# Formation: childhood
-
-## Molecular clouds
+# Formation: birth
 
 <Img url='https://api.stemguy.club/uploads/cloud.jpg-3334f155016f8bd538e37622c0156a9a.png' alt='Trigger-Happy Cloud' credit='by NASA' creditLink='https://www.nasa.gov/mission_pages/spitzer/multimedia/spitzer-20090812.html' width=516 height=675 />
+
+# Initial ages: childhood
 
 ## Protostars
 
