@@ -1,3 +1,7 @@
+---
+	description: Have you ever wanted to know what happens with those tiny luminous points in the sky that we call stars? Do you want to know about how they are formed, maintained and extinguished? Well, then this is the right post for you. In this article, I talk about evolution of stars, going from their birth to their death.
+---
+
 The most famous astronomical objects are stars, mainly because of their predominance in the night sky. Most people are used to seeing them as just luminous points and, for more advanced observers, to recognizing patterns like constellations and asterisms.
 
 However, when we look at stars from an astrophysical perspective, those objects take another identity. In this scenario, they can be described as plasma spheroids kept together by their own gravity. Below, I talk about some of the most important stages in the life of different types of star, going from their formation to their destruction.
