@@ -4,7 +4,9 @@
 
 The most famous astronomical objects are stars, mainly because of their predominance in the night sky. Most people are used to seeing them as just luminous points and, for more advanced observers, to recognizing patterns like constellations and asterisms.
 
-However, when we look at stars from an astrophysical perspective, those objects take another identity. In this scenario, they can be described as plasma spheroids kept together by their own gravity. Below, I talk about some of the most important stages in the life of different types of star, going from their formation to their destruction.
+However, when we look at stars from an astrophysical perspective, those objects take another identity. In this scenario, they can be described as plasma spheroids kept together by their own gravity. Below, I talk about some of the most important stages in the life of different types of stars, going from their formation to their destruction.
+
+<HorizontalAd />
 
 # Formation and initial ages: birth and childhood
 
@@ -14,9 +16,9 @@ Imagine an enormous cloud of gas and dust. Then, some regions of this cloud star
 
 ## Protostars
 
-Once this structure is formed, the protostar keeps collapsing and, as a consequence of the **Kelvin–Helmholtz mechanism**, increasing its temperature. A protostar can follow 2 paths: become a real star or a brown dwarf.
+Once this structure is formed, the protostar keeps collapsing and increasing its temperature, which is a consequence of the **Kelvin–Helmholtz mechanism** (basically, a conversion from gravitational collapse to heat). Then, a protostar can follow 2 paths: become a real star or a brown dwarf.
 
-If we were to be more technical, this object becomes a star when nuclear fusions start happening in its core. However, if the protostar does not achieve the required temperature from the **Kelvin–Helmholtz mechanism**, it does not start having those reactions and become a brown dwarf.
+Being a little more technical, this object becomes a star when nuclear fusions start happening in its core. However, if the protostar does not achieve the required temperature from the **Kelvin–Helmholtz mechanism**, it does not start having those reactions and become a brown dwarf.
 
 ## Brown dwarfs
 
@@ -24,13 +26,15 @@ If we were to be more technical, this object becomes a star when nuclear fusions
 
 We could say that brown stars are protostars that failed to become real stars. Since they did not have nuclear fusions, their material is 100% Hydrogen, and they don't emit light.
 
+<HorizontalAd />
+
 # Main sequence: adulthood
 
 Once a protostar starts having nuclear fusions in its center, it becomes a star and enters the main sequence. This is the longest period of life of stars; for reference, the Sun has been in the main sequence for 4.5 billion years and will keep in it for the same period.
 
 ## Nuclear fusions
 
-While stars are in the main sequence, the nuclear fusions happening in their core converts Hydrogen to Helium. Those reactions are responsible for counter-balancing the gravity force (which tends to collapse) and, therefore, keeping the star at balance.
+While stars are in the main sequence, the nuclear fusions happening in their core converts Hydrogen to Helium. Those reactions are responsible for counter-balancing the gravity force (which tends to collapse) and, therefore, for keeping the star in balance.
 
 ## Hertzsprung-Russell diagram
 
@@ -40,9 +44,11 @@ In astrophysics, the Hertzsprung-Russell diagram (commonly called H.R. diagram) 
 
 Besides, we can understand the relation between color and size of stars. For example, a blue star is greater than a red one, considering that both are in the main sequence.
 
+<HorizontalAd />
+
 # Final ages: elderhood
 
-Once the amount of Helium in the core increases, most stars at this point start another nuclear fusion process, now converting Helium into Carbon. After the amount of Carbon in the core increases, there are two common paths to be followed.
+When the amount of Helium in the core increases, most stars start another nuclear fusion process, now converting Helium into Carbon. After the amount of Carbon in the core increases, there are two common paths to be followed.
 
 ## Red giant stars
 
@@ -52,9 +58,11 @@ Stars with masses close to the Sun, become red giants when the Helium fusion sta
 
 <Img url='https://api.stemguy.club/uploads/onion-skins.jpg-c8327b40c35c0b9ffb17dda9341f4fca.png' alt='Onion skins of supergiant red star' credit='by University of Alberta' creditLink='https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect18/lecture18.html' width=1000 height=659 />
 
-Stars with about 40 times the mass of the Sun are able to continue the nuclear fusion reactions; hence, they convert Carbon into Neon, Neon into Oxygen, Oxygen into Silicon, and finally Silicon into Iron. This series of reaction stops at Iron because its nuclear fusion is an endothermic process, meaning that it would consume energy instead of provide it.
+Stars with about 40 times the mass of the Sun are able to continue the nuclear fusion reactions; hence, they convert Carbon into Neon, Neon into Oxygen, Oxygen into Silicon, and finally Silicon into Iron. This series of reactions stops at Iron because its nuclear fusion is an endothermic process, meaning that it would consume energy instead of provide it.
 
 The result of those nuclear fusions is a lot of onion-like layers, each with a different element. Besides, in this process, those stars become red supergiants, which are really similar to red giants, but with a greater radius.
+
+<HorizontalAd />
 
 # Explosions: death
 
@@ -64,13 +72,15 @@ When there is not enough nuclear fusions in a star, its balance is completely lo
 
 <Img url='https://api.stemguy.club/uploads/m57.png-7911910821c2ddbed32326a55fd06b7c.png' alt='Ring nebula (M57)' credit='NASA, ESA and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-57-the-ring-nebula' width=1500 height=1500 />
 
-The explosion of stars similar to the Sun is more controlled and generate what is known as planetary nebulas. This structure contains matter from the outer layers of red giants and has a relatively symmetrical format (which made some astronomers to confuse planetary nebulas with planets, originating this name).
+The explosion of stars similar to the Sun is more controlled and generate what is known as planetary nebulas. This structure contains matter from the outer layers of red giants and has a relatively symmetrical format (which made some astronomers confuse planetary nebulas with planets, originating the name).
 
 ## Supernovas
 
 <Img url='https://api.stemguy.club/uploads/m1.png-061b8e6f9e278cc203279839504c6dbf.png' alt='Crab nebula (M1)' credit='NASA, ESA, J. Hester and A. Loll (Arizona State University)' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-1-the-crab-nebula' width=1500 height=1500 />
 
-When red supergiants stop their nuclear fusions (with the Iron predominance in the core), the outer layers are thrown away in an enormous explosion called supernova. One interesting consequence of this process is the formation of elements with higher atomic numbers, up to Uranium (elements with higher atomic numbers can only be created synthetically).
+When red supergiants stop their nuclear fusions (with the Iron predominance in the core), the outer layers are thrown away in an enormous explosion called supernova. One interesting consequence of this process is the formation of elements with higher atomic numbers, but only up to Uranium (elements with higher atomic numbers can only be created synthetically).
+
+<HorizontalAd />
 
 # Remnant: corpse
 
@@ -80,13 +90,13 @@ After the explosion, the remnant core content can become three objects.
 
 The remaining content from a planetary nebula is a white dwarf, having the size approximately equal to the Earth. White dwarfs are kept in balance due to the degeneracy pressure, which is a consequence of the Pauli exclusion principle for electrons.
 
-They don't produce more energy, emitting only the stored amount. Therefore, in theory, there could exist a black dwarf, which is basically a white dwarf that consumed all of its energy. However, the time needed for a black dwarf to be formed is greater than the age of the universe; hence, we cannot detect this type of object.
+They don't produce more energy, emitting only the stored amount. Therefore, in theory, there could exist a *black* dwarf, which would be basically a white dwarf that consumed all of its energy. However, the time needed for a black dwarf to be formed is greater than the age of the universe; hence, we cannot detect this type of object.
 
 ## Neutron stars
 
 <Img url='https://api.stemguy.club/uploads/neutron-star.png-fe8b8d12fa00c24fea15bf662f910578.png' alt='Neutron start with blast' credit="NASA's Goddard Space Flight Center/CI Lab" creditLink='https://svs.gsfc.nasa.gov/12740' width=1500 height=844 />
 
-As a result of a supernova, the remaining content with mass similar to the Sun will become a neutron star. In the formation process, electrons and protons are fused, resting only neutrons in the atoms. The result is a small object — with a radius on the order of 10 km —, which is kept in balance by the **Pauli exclusion principle**.
+As a result of a supernova, the remaining content with mass similar to the Sun will become a neutron star. In the formation process, electrons and protons are fused, resting only neutrons from the atoms. The result is a small object — with a radius on the order of 10 km —, which is kept in balance by the **Pauli exclusion principle**.
 
 ## Black holes
 
@@ -98,4 +108,4 @@ If you want to learn more about black holes, I invite you to take a look at the 
 
 # Disclaimer
 
-Stellar evolution is a very complex subject, so there are many more cases that could be mentioned. However, since this blog is intended to show how interesting STEM is for non-experts in this area, I have only focused on the most important parts of the life of a star. Topics like variable stars and low mass stars can be discussed in future articles.
+Stellar evolution is a very complex subject, so there are many more cases that could be mentioned. However, since this blog is intended to show how interesting STEM is for non-experts in this area, I have only focused on the most important and common parts of the life of stars. Topics like variable stars and low mass stars can be discussed in future articles.
