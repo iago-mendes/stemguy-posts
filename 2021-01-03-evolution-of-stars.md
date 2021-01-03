@@ -10,7 +10,7 @@ However, when we look at stars from an astrophysical perspective, those objects 
 
 # Formation and initial ages: birth and childhood
 
-<Img url='https://api.stemguy.club/uploads/m42.jpg-cb468784d8eef0ff235709f86c11f030.png' alt='Orion nebula (M42)' credit='NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-42-the-orion-nebula' width=516 height=675 />
+<Img url='https://api.stemguy.club/uploads/m42.jpg-452e65327608cbc957d6d3f6a77d3320.png' alt='Orion nebula (M42)' credit='NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-42-the-orion-nebula' width=2048 height=1536 />
 
 Imagine an enormous cloud of gas and dust. Then, some regions of this cloud start to agglomerate, concentrating matter in the center and creating a disk format. With time, the result of this gravitational collapse is a hot dense star-like object: a protostar.
 
