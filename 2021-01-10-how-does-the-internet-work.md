@@ -1,8 +1,8 @@
 ---
-	description: You access the internet every day, but do you know how it actually works? Would you believe if I tell you that the whole is connected via cables in order for you to post on Instagram and others see it? Well, that is — among other things — what keeps the internet live.
+	description: You access the internet every day, but do you know how it actually works? Would you believe if I told you that the whole world is connected via cables in order for you to post on Instagram and others see it? Well, that is — among other things — what keeps the internet live. In this post, I explain some interesting topics regarding the internet, going through basic concepts, information transmission, and identification.
 ---
 
-We are all connected. Nowadays, you can communicate with people in the other side of Earth in a matter of seconds. This is possible because of the internet, which has become presented in the life of most of us. It has even become a surprising fact how the children born in this era are able to understand technology and, consequently, the internet so easily.
+Nowadays, we are all connected. You can communicate with people in the other side of Earth in a matter of seconds. This is possible because of the internet, which has become presented in the life of most of us. It has even become a surprising fact how the children born in this era are able to understand technology and, consequently, the internet so easily.
 
 In this sense, a lot of us depend on the internet for many activities, like working, studying or even having fun. This is true especially after spending almost all 2020 in isolation from the world. However, many people do not quite understand how this so important modern feature (the internet) works. Well, if you want to learn about it, you are in the right place.
 
@@ -18,13 +18,13 @@ Before diving into the technical details of this topic, it is important to under
 
 To send a mail, you need to go to a post office, which will be in charge of controlling the mail path until the destination, right? Well, you could say that servers are the "post offices" of the internet. They control what is sent and received.
 
-For example, when I sent this article to the server I own, its information is stored; then, when some reader — like you — requests that article, the same server is responsible for treating and sending this piece of information to your browser.
+For example, when I sent this article to the server I own, its information was stored; then, when some reader — like you — requests that article, the same server is responsible for treating and sending this piece of information to a browser.
 
 ## Cables and signals: postal workers
 
 Okay... I have explained that servers are responsible for controlling information, but how does it actually travel from some remote machine to your browser? Using cables and signals, of course! This is shocking to people who have not heard about this before, but the whole world is filled with lots of cables that connect houses, cities, and countries.
 
-The work done in this division can be associated as a postman's work, who is responsible to take a mail from an origin and deliver it to a destiny. This traffic process has a lot of more cool facts, so I talk more about it in the next section.
+The work done in this division can be associated as a postman's work, who is responsible to take a mail from an origin and deliver it to a destiny. This traffic process has a lot of cool facts, so I talk more about it in the next section.
 
 ## Clients: houses
 
@@ -38,7 +38,7 @@ In our analogy, both the sender and recipient are clients. For example, when I p
 
 <Img url='https://api.stemguy.club/uploads/internet.png-407f335c3afd624e154c31e48457c810.png' alt='Internet connection illustration' credit='Background vector created by rawpixel.com - www.freepik.com' creditLink='https://www.freepik.com/vectors/background' width=1500 height=1000 />
 
-In the previous section, I talked about the information traffic a little, but now it is time to dive into it! This process has some fascinating facts, so let's start.
+In the previous section, I talked a little about the information traffic, but now it is time to dive into it! This process has some fascinating facts, so let's get started.
 
 ## Packets
 
@@ -46,7 +46,7 @@ You know that some information we access online can be pretty heavy, right? This
 
 ## Copper and optical cables
 
-Remember that I said that the world is connected via cables? This may sound strange because nowadays we are so used to the wireless technology, but we still rely a lot on the old physical cables. Now, of course the current cables are way more advanced, having the optical fiber technology as a way to speed the traffic.
+Remember that I said the world is connected via cables? This may sound strange because nowadays we are so used to the wireless technology, but we still rely a lot on the old physical cables. Now, of course the current cables are way more advanced, having the optical fiber technology as a way to speed the traffic.
 
 The copper cables are slower, but still very common around the world when an enormously high speed is not required. In essence, optical cables connect countries, big data centers and internet providers, which are connected to the rest of the world via either cable.
 
@@ -58,7 +58,7 @@ When considering such cables, there are some funny concerns that must be figured
 
 ## Radio waves
 
-By now, I have mainly talked only about cable connections, but you probably are not connected to a cable if you are using your smartphone or a laptop. That is because you are probably connected to a Wi-Fi or using cellular data. They both use radio waves to transmit information to you.
+By now, I have mainly talked about cable connections, but you probably are not connected to a cable if you are using your smartphone or a laptop. That is because you are probably connected to a Wi-Fi or using cellular data. They both use radio waves to transmit information to you.
 
 <HorizontalAd />
 
@@ -66,11 +66,11 @@ By now, I have mainly talked only about cable connections, but you probably are 
 
 <Img url='https://api.stemguy.club/uploads/google.png-168aa83c73b10b2d6c271a0355215344.png' alt='Google id card' credit='Designed using business vector created by freepik - www.freepik.com' creditLink='https://www.freepik.com/vectors/business' width=1500 height=1286 />
 
-Now that we have talked about the fairly complex information traffic, you may be wondering how does a server not get confused about where to send a certain piece of data. In order to avoid this problem, it is important to have a good identification system.
+Now that we have talked about the fairly complex information traffic process, you may be wondering how does a server not get confused about where to send a certain piece of data. In order to avoid this problem, it is important to have a good identification system.
 
 ## IP addresses
 
-The main feature responsible to identify everything on the internet is the **IP address**, which is unique to internet connection around the world. For example, the IP address 172.271.162.174 identifies the main Google website. In the analogy we created in the beginning of this article, this would be equivalent to house address, which identify the post office and both the sender and the recipient.
+The main feature responsible to identify everything on the internet is the **IP address**, which is unique to each internet connection around the world. For example, the IP address 172.271.162.174 identifies the main Google website. In the analogy we created in the beginning of this article, this would be equivalent to house address, which identify the post office and both the sender and the recipient.
 
 ## Domain names
 
