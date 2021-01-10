@@ -1,3 +1,7 @@
+---
+	description: You access the internet every day, but do you know how it actually works? Would you believe if I tell you that the whole is connected via cables in order for you to post on Instagram and others see it? Well, that is — among other things — what keeps the internet live.
+---
+
 We are all connected. Nowadays, you can communicate with people in the other side of Earth in a matter of seconds. This is possible because of the internet, which has become presented in the life of most of us. It has even become a surprising fact how the children born in this era are able to understand technology and, consequently, the internet so easily.
 
 In this sense, a lot of us depend on the internet for many activities, like working, studying or even having fun. This is true especially after spending almost all 2020 in isolation from the world. However, many people do not quite understand how this so important modern feature (the internet) works. Well, if you want to learn about it, you are in the right place.
