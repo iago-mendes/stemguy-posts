@@ -1,8 +1,8 @@
 ---
-	description: Can you tell the difference between asteroids, dwarf planets, comets, or other celestial objects? Those astronomical bodies make part of our home — the Solar System —, so we should be familiar with their characteristics, don't you agree? In this post, I talk about the most interesting objects and regions that compose our stellar system.
+	description: Can you tell the difference between asteroids, dwarf planets, comets, or other astronomical objects? Those celestial bodies make part of our home — the Solar System —, so we should be familiar with their characteristics, don't you agree? In this post, I talk about the most interesting objects and regions that compose our stellar system.
 ---
 
-We all have heard about the Solar System, right? After all, it is our home in the vast universe. However, did you know that this system is composed of distinct object types and regions? Some of those components may sound more familiar — like planets and comets — and others may sound way too technical, like Kuiper belt.
+We all have heard about the Solar System, right? After all, it is our home in the vast universe. However, did you know that this system is composed of distinct object types and regions? Some of those components may sound more familiar — like planets and comets —, while others may sound a little more technical — such as the Kuiper belt.
 
 <HorizontalAd />
 
@@ -16,7 +16,7 @@ Most object types probably sound familiar to you, but let's dive into the charac
 
 An asteroid is the simplest classification of astronomical objects. The only requirement to be classified as an asteroid is to orbit the Sun. Therefore, we can deduce that these are the predominant objects in our stellar system.
 
-Good places to find asteroids are the stable **Lagrangian points** of each planet, in which the gravitational arrangement attracts near matter. In this context, the most famous group of asteroid are the **Trojans**, which share Jupiter's orbit.
+Good places to find asteroids are the stable **Lagrangian points** of each planet, in which the gravitational arrangement attracts near matter to its center. In this context, the most famous group of asteroids is the **Trojans**, which share Jupiter's orbit.
 
 ### Meteor
 
@@ -28,7 +28,7 @@ Sometimes, not all the rocky content from meteors are destroyed in their journey
 
 ## Dwarf planet
 
-When compared to asteroids, dwarf planets add one more requirement; hence, to be in this category, an objects needs to orbit the Sun — just like an asteroid — and must have a spheroidal format. Since the format of celestial bodies depend on their masses, we can also say that dwarf planets have more mass than asteroids.
+When compared to asteroids, dwarf planets have one more requirement; to be in this category, an objects needs to orbit the Sun — just like an asteroid — and must have a spheroidal format. Since the format of celestial bodies depend on their masses, we can also say that dwarf planets have more mass than asteroids.
 
 Currently, there are 5 dwarf planets cataloged in the Solar System, including the contradictory **Pluto**.
 
@@ -36,7 +36,7 @@ Currently, there are 5 dwarf planets cataloged in the Solar System, including th
 
 ## Planet
 
-Again, when compared to dwarf planets, planets add one more requirement; therefore, to be considered a planet, an object needs to fit the previous rules and to be capable of *"cleaning"* its orbit. In other words, a planet must eliminate the objects in its orbital region or make them orbit it.
+Again, when compared to dwarf planets, planets add one more requirement to the set of rules; to be considered a planet, an object needs to fit the previous requirements and to be capable of *"cleaning"* its orbit. In other words, a planet must eliminate the objects in its orbital region or make them orbit it.
 
 This additional rule wad created by the [International Astronomical Union](https://www.iau.org) (IAU) in 2006 and is responsible for changing **Pluto**'s category from planet to dwarf planet.
 
@@ -58,12 +58,12 @@ Now that we know the types of objects in our stellar system, let's learn about s
 
 ## Asteroid belt
 
-The Asteroid belt is a special region between the orbits of Mars and Jupiter. As the name suggests, it is mostly filled with asteroids, but it is also home to one dwarf planet: Ceres.
+The Asteroid belt is a special region between the orbits of Mars and Jupiter. As the name suggests, it is mostly filled with asteroids, but it is also home to one dwarf planet: **Ceres**.
 
 ## Kuiper belt
 
-The Kuiper belt is a **trans-neptunian** region, meaning that it is located after the orbit of **Neptune**. It contains asteroids, dwarf planets (4 of them) and short-period comets. The most famous object from this region is the Halley comet, which has a period of approximately 76 years.
+The Kuiper belt is a **trans-neptunian** region, meaning that it is located after the orbit of **Neptune**. It contains asteroids, dwarf planets (4 of them) and short-period comets. The most famous object from this region is the **Halley comet**, which has a period of approximately 76 years.
 
 ## Oort cloud
 
-Finally, the Oort cloud is the most distant region of the Solar System. While the previous regions take the forms of disks, this region has a spheroidal format. It houses mostly asteroids and long-period comets. The recently-famous NEOWISE comet comes from the Oort cloud and has a period of approximately 6,766 years (crazy, right?).
+Finally, the Oort cloud is the most distant region of the Solar System. While the previous regions take the forms of disks, this region has a spheroidal format. It houses mostly asteroids and long-period comets. The recently-famous **NEOWISE comet** comes from the Oort cloud and has a period of approximately 6,766 years (crazy, right?).
