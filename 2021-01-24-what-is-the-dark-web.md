@@ -1,3 +1,7 @@
+---
+	description: Have you ever heard about the Dark web and wanted to know exactly what it is? Can you tell the difference between the "deep web" and the "dark web"? If so, stay tuned because, in this post, I talk about this darker side of the internet.
+---
+
 When you think about the "dark web" or the "deep web", what do imagine? A bunch of hackers doing illegal things on the internet? Well, this is the most common image in our culture, but that is not a good description. In fact, those terms — which mean different things, as I explain below — are associated with a less accessible and more anonymous region of the internet.
 
 We access the internet every day, but there is always something interesting about it that we still do not understand entirely. The dark web is included in that group, which is why I discuss it in this post.
