@@ -1,12 +1,22 @@
+When I take my telescope to show the night sky to inexperienced people, they usually want to look at stars. After I explain that stars are not magnified in a telescope because of their distance and dimensions, their expression tends to be of disappointment. After all, *"what else is there for us to observe?"* — many would say.
+
+Well, that question is already destroyed if we consider some beautiful and interesting objects in our stellar system, like planets and the Moon. However, if that is not enough for you, let me tell you a secret: the most surprisingly charming celestial bodies are not included in those categories, because they are **deep sky objects**. At least, that is my opinion.
+
 <HorizontalAd />
 
 # What is a Deep Sky Object (DSO)?
+
+What can you see when you look at the sky? Mainly stars, some planets, and — on a lucky day — the Moon, right? That is because they are really easy to see without any special equipment; we could say that they are *"shallow sky objects"*. That said, you may ask yourself: is there more than our eyes can see? Yes, there is!
+
+Every celestial body that is not a star or part of the Solar System is classified as a **Deep Sky Object**, which is usually referred to as **DSO**. The most famous types of DSOs are **Nebulae** (huge clouds of gas and dust), **Star Clusters**, and **Galaxies**. In general, they are difficult (but not impossible for some) to see in the night sky with the naked eye, especially if you are in a large city with intense light pollution.
 
 # Who was Charles Messier?
 
 <Img url='https://api.stemguy.club/uploads/messier.jpg-21b54ea0032cbf25ad2cd9fb83b9d7a7.png' alt='Charles Messier' credit='Ansiaume (1729—1786), Public domain, via Wikimedia Commons' creditLink='https://commons.wikimedia.org/wiki/File:Charles_Messier.jpg' width=621 height=787 />
 
-## The Messier catalog
+**Charles Messier** was a French astronomer who worked with hunting comets in the 18th century. Back then, there was a problem in the scientific community of distinguishing permanent from transient (with low period) objects in the sky. As a consequence, many astronomers used to end up deeply studying an unidentified body only to discover that it was not a comet.
+
+Seeing this situation, Messier decided to help the community by cataloging some of those permanent objects, which were DSOs we have already talked about. After some updates and help by other scientists, the **Messier Catalog** — as it became known — now contains 110 deep sky objects. From this quantity, 11 are nebulae, 55 are star clusters, and 39 are galaxies.
 
 <HorizontalAd />
 
