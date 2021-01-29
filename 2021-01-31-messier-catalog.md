@@ -22,13 +22,21 @@ Seeing this situation, Messier decided to help the community by cataloging some 
 
 # Famous DSO's in the Messier catalog
 
+Now that you have understood the context behind the deep sky objects, let's dive into the reason why most of you probably are here: to see some amazing images and what they represent.
+
 ## The Crab Nebula (M1)
 
 <Img url='https://api.stemguy.club/uploads/m1.png-061b8e6f9e278cc203279839504c6dbf.png' alt='Crab nebula (M1)' credit='NASA, ESA, J. Hester and A. Loll (Arizona State University)' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-1-the-crab-nebula' width=1500 height=1500 />
 
+The Crab Nebula is the first object in the Messier catalog and is one of the most interesting as well. As the name suggests, this DSO is a nebula that is remnant from a supernova (death of a massive star).
+
+This explosion event was visible in Earth in 1054 and was noticed by Chinese astronomers, who viewed a *"guest star"* (as it was thought back then) even during the day. Nowadays, in a region with low light pollution, we can see M1 by aligning our equipments to the Taurus constellation.
+
 ## The Andromeda Galaxy (M31)
 
 <Img url='https://api.stemguy.club/uploads/m31.png-fa1f0777d98390bdf6f22da2f62ff31f.png' alt='The Andromeda Galaxy (M31)' credit='NASA, ESA and Z. Levay (STScI/AURA)' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-31-the-andromeda-galaxy' width=1000 height=1000 />
+
+The Andromeda Galaxy is the 31st object in the Messier catalog and is one of the most famous bodies by the public. It is the nearest galactic neighbor of our galaxy, and — along with the Milk Way — forms the Local Group, having some satellite galaxies around both central bodies. Besides M31 is **collision course** towards us!!! However, do not worry; we still have about 4.5 billion years of safety before that happens.
 
 <HorizontalAd />
 
@@ -36,12 +44,18 @@ Seeing this situation, Messier decided to help the community by cataloging some 
 
 <Img url='https://api.stemguy.club/uploads/m42.jpg-452e65327608cbc957d6d3f6a77d3320.png' alt='Orion nebula (M42)' credit='NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-42-the-orion-nebula' width=2048 height=1536 />
 
+The Orion Nebula is the 42nd object in the Messier catalog and one of the first observations of amateur astronomers who are starting their journey. It is a diffuse nebula and the closest stellar formation region. In the night sky, M42 can be spotted and distinguished from regular stars with the naked eye, being a spectacle when seen through a telescope.
+
 ## The Ring Nebula (M57)
 
 <Img url='https://api.stemguy.club/uploads/m57.png-7911910821c2ddbed32326a55fd06b7c.png' alt='Ring nebula (M57)' credit='NASA, ESA and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-57-the-ring-nebula' width=1500 height=1500 />
+
+The Ring Nebula is the 57th object in the Messier catalog and a **planetary nebula**. This type of structure is formed when a sun-like star dies and its core becomes a white dwarf, which can be seen in the center of every planetary nebula. M57 cannot be seen with the naked eye, but an intermediary telescope can spot this magnificent body in the Lyra constellation.
 
 <HorizontalAd />
 
 ## The Sombrero Galaxy (M104)
 
 <Img url='https://api.stemguy.club/uploads/m104.png-92c2190359f0af0942b690dc183edba4.png' alt='The Sombrero Galaxy (M104)' credit='NASA and the Hubble Heritage Team (STScI/AURA)' creditLink='https://www.nasa.gov/feature/goddard/2017/messier-104-the-sombrero-galaxy' width=1500 height=841 />
+
+Finally, the Sombrero Galaxy is the 104th object in the Messier catalog and is famous because of its shape that remembers a hat. Its characteristic symmetric ring is formed by dust, being the site of star formation in the galaxy. M104 is also beyond the visibility of the naked eye, but it can be seen through a small telescope pointing to its location in the Virgo constellation.
