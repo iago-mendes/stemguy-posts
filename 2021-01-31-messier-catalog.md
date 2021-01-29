@@ -1,3 +1,7 @@
+---
+	description: Did you know that stars, planets, and the Moon are not the only possible targets of observation? In fact, the most beautiful ones are Dark Sky Objects (or DSOs), which is the subject of this article. If you want to learn more about this topic and to see some famous DSOs, this is the right post for you.
+---
+
 When I take my telescope to show the night sky to inexperienced people, they usually want to look at stars. After I explain that stars are not magnified in a telescope because of their distance and dimensions, their expression tends to be of disappointment. After all, *"what else is there for us to observe?"* — many would say.
 
 Well, that question is already destroyed if we consider some beautiful and interesting objects in our stellar system, like planets and the Moon. However, if that is not enough for you, let me tell you a secret: the most surprisingly charming celestial bodies are not included in those categories, because they are **deep sky objects**. At least, that is my opinion.
