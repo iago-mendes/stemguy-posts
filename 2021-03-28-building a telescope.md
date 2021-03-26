@@ -1,5 +1,5 @@
 ---
-	description:
+	description: Have you ever wanted to build a telescope by yourself? What would be the challenged and the outcomes? If you would like to know the answers to those and more questions, you will love this article, which is an interview about this confection process.
 ---
 
 This article is written in an interview format. The credited author was interviewed by the STEM Guy club with the questions presented in each topic. His answers were registered in Brazilian Portuguese and translated.
